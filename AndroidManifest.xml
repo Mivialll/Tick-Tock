@@ -37,7 +37,9 @@
         <activity android:name=".second" />
         <activity android:name=".MainActivity" />
         <activity android:name=".text" />
-        <activity android:name=".texts"></activity>
+        <activity android:name=".texts">
+        
+        </activity>
     </application>
 
 </manifest>
